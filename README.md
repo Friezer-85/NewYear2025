@@ -1,4 +1,4 @@
-# new-year-countdown-fireworks
+# New Year 2025
 
     Responsive New Year Countdown With Fireworks Using HTML CSS JavaScript
 
